@@ -6,20 +6,10 @@
 
 ```javascript
 const abdymalik = {
-  location: 'Istanbul/Turkey',
+  location: 'Istanbul, Turkey',
   position: 'Fullstack Web Developer',
-  technologies: {
-    frontEnd: {
-      js: ['React', 'jQuery', 'Redux'],
-      css: ['styled-components', 'bootstrap', 'materialUi', 'SASS']
-    },
-    backEnd: ['Node.js', 'Express.js'],
-    databases: ['MongoDB'],
-    api: {
-      development: ['RestAPI'],
-      testing: ['Postman']
-    },
-    workflowAutomation: ['Camunda', 'Telegram Bot']
+  experience: {
+    intern: {workplace: 'Dara Solutions', period: '4 months', location: 'Almaty, Kazakhstan'}
   }
 };
 
