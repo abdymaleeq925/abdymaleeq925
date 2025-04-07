@@ -7,8 +7,9 @@
 ```javascript
 const abdymalik = {
   location: 'Istanbul, Turkey',
-  position: 'Fullstack Web Developer',
+  position: 'Frontend Web Developer',
   experience: {
+    intern: {workplace: 'VisionCore', period: '4 months', location: 'Istanbul, Turkey'},
     intern: {workplace: 'Dara Solutions', period: '4 months', location: 'Almaty, Kazakhstan'}
   }
 };
@@ -54,5 +55,8 @@ const abdymalik = {
 </div>  
   
 <br/>  
+
+##GitHub Streaks
+[![GitHub Streak](https://streak-stats.demolab.com?user=yabdymaleeq925&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
 ----
