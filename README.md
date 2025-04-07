@@ -43,7 +43,7 @@ const abdymalik = {
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://t.me/naintufaiv55">
-  <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimage%2F45017&psig=AOvVaw3oli2YPPaEAKDTtSXf8Kd4&ust=1744116221833000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiS0rH5xYwDFQAAAAAdAAAAABAE" />
+  <img height="50" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </p>  
 
