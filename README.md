@@ -65,4 +65,7 @@ const abdymalik = {
 ## CodeWars Stats
 [![Codewars](https://www.codewars.com/users/abdymalik14/badges/large)](https://www.codewars.com/users/abdymalik14)
 
+## LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/abdymaleeq925?extension=heatmap)](https://leetcard.jacoblin.cool/abdymaleeq925?extension=heatmap)
+
 ----
